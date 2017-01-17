@@ -1,0 +1,22 @@
+body{
+    width: 480px;
+    height: 220px;
+}
+img{
+    float: right;
+}
+h2 {
+    color: #888888;
+}
+h3{
+    color: #cccccc;
+}
+a:visited{
+    color: #72aacc;
+}
+span{
+    color: #868276;
+}
+footer{
+    background-color: #eaecef;
+}

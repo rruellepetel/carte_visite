@@ -3,6 +3,7 @@ body{
     height: 220px;
     border: 1px solid #dbdede;
     font-family: Arial;
+    box-shadow: 5px 5px 5px 5px #656565;
 }
 header{
     margin-top: 2em;
@@ -38,7 +39,7 @@ a:visited{
 }
 footer span{
     color: #868276;
-    margin-left: 3em;
+    margin-left: 6em;
 }
 footer{
     background-color: #eaecef;

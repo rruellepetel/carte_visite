@@ -1,22 +1,22 @@
-body{
+body {
     width: 480px;
     height: 220px;
     border: 1px solid #dbdede;
     font-family: Arial;
     box-shadow: 5px 5px 5px 5px #656565;
 }
-header{
+header {
     margin-top: 2em;
     margin-right: 2em;
 }
-h1{
+h1 {
     display: inline;
     margin-left: 0.5em;
 }
-img{
+img {
     float: right;
 }
-main{
+main {
     display: inline-block;
     margin-top: 2em;
     margin-bottom: 1.6em;
@@ -27,21 +27,21 @@ main{
     font-weight: bold;
     font-size: 20px;
 }
-#competence{
+#competence {
     color: #cccccc;
     font-weight: bold;
 }
-a{
+a {
     margin-left: 1em;
 }
-a:visited{
+a:visited {
     color: #72aacc;
 }
-footer span{
+footer span {
     color: #868276;
     margin-left: 6em;
 }
-footer{
+footer {
     background-color: #eaecef;
     padding: 2em 0 1.5em 0;
 }
